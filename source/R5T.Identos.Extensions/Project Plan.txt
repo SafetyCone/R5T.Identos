@@ -1,0 +1,4 @@
+R5T.Identos.Extensions - An extensions library for the "Microsoft.AspNetCore.Identity" NuGet package.
+
+Goals
+
